@@ -1,4 +1,4 @@
-### Front-End developer 😋
+### Full Stack developer 😋
 
 I like to create clones of real applications. You can see them in my featured repositories :)
 
