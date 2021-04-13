@@ -1,5 +1,7 @@
 ### Full Stack developer 😋
 
+![](https://komarev.com/ghpvc/?username=josuemartinezz&color=green)
+
 I like to create clones of real applications. You can see them in my featured repositories :)
 
 - 🔭 I’m currently working on [Elaniin Tech Company](https://elaniin.com/)
