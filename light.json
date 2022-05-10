@@ -1,0 +1,17 @@
+{
+    "codigo": 1,
+    "mensaje": "",
+    "descripcion": "Respuesta satisfactoria",
+    "color": "ROJO",
+    "diasFaltantes": 0,
+    "esFacta": false,
+    "tipoActualizacion": "LARGA",
+    "codigoSemaforo": "00004",
+    "descripcionCodigoSemaforo": "Sin error",
+    "niu": "10468415",
+    "primerNombre": "NOMBRE 1",
+    "segundoNombre": "NOMBRE 1",
+    "primerApellido": "APELLIDO 1",
+    "segundoApellido": "APELLIDO 2",
+    "tipoAutenticacion": "0"
+}
