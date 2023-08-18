@@ -1,4 +1,4 @@
-### Full Stack developer 😋
+### Full Stack Developer 😋
 
 ![](https://komarev.com/ghpvc/?username=josuemartinezz&color=green)
 
